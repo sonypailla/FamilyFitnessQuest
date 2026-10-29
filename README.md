@@ -68,16 +68,17 @@ A local two-player cooperative game featuring:
 ## Screenshots
 
 ### Family Fitness Quest
-![Family Fitness Quest](Screenshots/FamilyFitnessQuest.png)
+![Family Fitness Quest](./Screenshots/FamilyFitnessQuest.png)
 
 ### Mobile Performance Lab
-![Mobile Performance Lab](Screenshots/MobilePerformanceLab.png)
+![Mobile Performance Lab](./Screenshots/MobilePerformanceLab.png)
 
 ### Health Telemetry Dashboard
-![Health Telemetry Dashboard](Screenshots/HealthTelemetryDashboard.png)
+![Health Telemetry Dashboard](./Screenshots/HealthTelemetryDashboard.png)
 
 ### Family Co-op Challenge
-![Family Co-op Challenge](Screenshots/FamilyCoopChallenge.png)
+![Family Co-op Challenge](./Screenshots/FamilyCoopChallenge.png)
+
 ## Author
 
 **Sony Pailla**
